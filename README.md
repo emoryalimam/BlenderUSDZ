@@ -1,6 +1,6 @@
 # Blender USD plugin
 
-This work is very preliminary. Basically, I needed an easy way to test out subdivision surfaces with ARKit on iOS and there wasn't a way to easily export crease info to USD, so I created this.
+This work is very preliminary. Basically, I needed an easy way to test out subdivision surfaces with SceneKit on iOS and there wasn't a way to easily export crease info to USD, so I created this.
 
 If you are interested in contributing, I might take your patches. In any case, feel free to fork and add to this.
 
